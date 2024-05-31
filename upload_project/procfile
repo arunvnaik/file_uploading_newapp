@@ -1,1 +1,0 @@
-web: gunicorn data_summary.wsgi --log-file -
